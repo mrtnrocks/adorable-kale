@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Imprint
 sections:
   - type: section_contact
     section_id: contact
