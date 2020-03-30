@@ -9,5 +9,6 @@ sections:
       Mathildenhöhe 23
 
       07356 Bad Lobenstein
+    section_id: Impressum
 template: landing
 ---
