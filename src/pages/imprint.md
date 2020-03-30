@@ -14,6 +14,6 @@ menus:
   secondary:
     title: Impressum
   main:
-    title: Imprint
+    title: Impressum
 template: landing
 ---
