@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Impressum
 sections:
   - type: section_hero
     content: |-
@@ -14,6 +14,6 @@ menus:
   secondary:
     title: Impressum
   main:
-    title: Impressum
+    title: Imprint
 template: landing
 ---
