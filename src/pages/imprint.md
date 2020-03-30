@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Impressum
 sections:
   - type: section_hero
     content: |-
