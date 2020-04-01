@@ -7,7 +7,7 @@ sections:
     content: >-
       We build **Windows**, **Mac** and **Linux** apps that you can give to your
       customers with one command.
-    image: /images/e3bf9d2c8e20cd12ec470ac5f9079f13.svg
+    image: /images/1.png
     actions:
       - label: Request Access
         url: ''
@@ -19,33 +19,37 @@ sections:
       active user
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: One Command
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+          With one simple command your app is published and ready for
+          distribution on Windows, Mac and Linux. Your app is built with native
+          installers, auto-updates, code signing and crash reports baked-in.
+
+
+          There's no infrastructure to set-up, no servers to manage and no
+          configuration needed.
+        image: /images/e3bf9d2c8e20cd12ec470ac5f9079f13.svg
         actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
+          - label: Request Access
+            url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
+      - title: Staggered Rollout
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
+
+          ToDesktop enables you to do a staggered released of your desktop app.
+          This means you can test your app with a safe set of beta users before
+          rolling it out completely.
+        image: /images/staggered.png
         actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
+          - label: Request Access
+            url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
+      - title: Relevant Analytics
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
+          You can use ToDesktop to track active users, app installs/uninstalls,
+          and even what app versions your users are currently using.
+        image: /images/7c216dc37c4a5031380185b4a1b55181-2075.png
         actions:
-          - label: Learn More
-            url: /features
+          - label: Request Access
+            url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
   - type: section_cta
     section_id: call-to-action
     title: Get your Desktop App
