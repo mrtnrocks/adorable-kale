@@ -3,20 +3,20 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: Get Desktop App from your Web App
+    title: Get a Desktop App from your Web App
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+      We build **Windows**, **Mac** and **Linux** apps that you can give to your
+      customers with one command.
+    image: /images/e3bf9d2c8e20cd12ec470ac5f9079f13.svg
     actions:
       - label: Learn More
-        url: /features
+        url: ''
   - type: section_features
     section_id: features
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Active desktop users are triggering 30% more actions than the average
+      active user
     bg: gray
     featureslist:
       - title: The Best Feature of Your Services
