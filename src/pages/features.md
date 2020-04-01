@@ -7,6 +7,7 @@ sections:
     content: >
       * Code signing
 
+
       We sign your desktop app with EV Microsoft Authenticode and Apple
       Gatekeeper certificates. Code signing is super-important because your app
       downloads and installs without warning dialogs.
