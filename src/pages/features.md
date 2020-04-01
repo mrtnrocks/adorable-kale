@@ -3,36 +3,34 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    title: The Best Features of Get Desktop App
+    content: >
+      * Code signing
+
+      We sign your desktop app with EV Microsoft Authenticode and Apple
+      Gatekeeper certificates. Code signing is super-important because your app
+      downloads and installs without warning dialogs.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Auto updates
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      Your app will regularly auto-update to ensure the underlying browser is
+      always up to date. Plus, this is how we deliver performance improvements,
+      security patches, and additional features to your app.
+
+
+      * Native installers
+
+
+      You'll get a customised installer for Windows, Mac and Linux. We even
+      provide a magic link you can send your users which will detect their
+      operating system and download the most up to date version of your app.
+    image: /images/features.png
     bg: gray
     actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - type: section_cta
-    section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
+      - label: Request Access
+        url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
 menus:
   main:
     title: Features
