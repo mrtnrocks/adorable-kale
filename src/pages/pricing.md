@@ -4,41 +4,45 @@ sections:
   - type: section_pricing
     section_id: pricing
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Choose the package that works for you.
     bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+      - title: Essential
+        price: $99/ month
+        details: |+
+          * Windows, Mac, LinuCode Signing
+          * Code signing
+          * Auto Updates
+          * Native app installers
+          * Native module rebuilding
+          * 1 Team Member
+
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
+        highlight: false
       - title: Professional
-        price: $49/m
+        price: $199/m
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
+          * Everything in Essential
+          * Analytics & versioning
+          * Crash reports & logging
           * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * 3 team members
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
       - title: Enterprise
-        price: $149/m
+        price: $299/m
         details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+          * Everything from Professional
+          * Release channels
+          * Staggered rollouts
+          * Enterprise support
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://forms.gle/AZM8XXZGEkzH5Rx69'
   - type: section_faq
     section_id: faq
     title: Frequently Asked Questions
