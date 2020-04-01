@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Request Access",
+          "url": "https://forms.gle/AZM8XXZGEkzH5Rx69"
         }
       ]
     }
