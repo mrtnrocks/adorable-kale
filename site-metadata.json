@@ -18,10 +18,10 @@
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
-    "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "social_title": "",
+    "tagline": "",
     "logo_img": "images/logo_alt.png",
-    "has_social": true,
+    "has_social": false,
     "content": "",
     "links": [
       {
